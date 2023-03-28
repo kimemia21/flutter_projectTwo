@@ -455,11 +455,11 @@ Widget formChat() {
               labelStyle: TextStyle(fontSize: 12),
               contentPadding: EdgeInsets.all(20),
               enabledBorder: OutlineInputBorder(
-                borderSide: BorderSide(color: Colors.indigo.shade100),
+                borderSide: BorderSide(color: Colors.indigo.shade200),
                 borderRadius: BorderRadius.circular(25),
               ),
               focusedBorder: OutlineInputBorder(
-                borderSide: BorderSide(color: Colors.indigo.shade100),
+                borderSide: BorderSide(color: Colors.indigo.shade200),
                 borderRadius: BorderRadius.circular(25),
               ),
               suffixIcon: Container(
